@@ -1,7 +1,5 @@
-Caelum
-
-Catering y pasteleria
-
+Caelum - Catering y pasteleria
+--------------
 Breve descripción
 El proyecto trata de un sitio web e-commerce de catering y pastelería que busca mostrarse al mercado, expandir su clientela y alzar sus ventas con su sitio web personalizado.
 
